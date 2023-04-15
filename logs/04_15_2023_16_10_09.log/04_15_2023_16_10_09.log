@@ -1,8 +1,0 @@
-[ 2023-04-15 16:10:13,479 ] 224 werkzeug - WARNING -  * Debugger is active!
-[ 2023-04-15 16:10:13,605 ] 224 werkzeug - INFO -  * Debugger PIN: 104-619-713
-[ 2023-04-15 16:10:41,952 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:10:41] "GET / HTTP/1.1" 200 -
-[ 2023-04-15 16:10:41,956 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:10:41] "GET / HTTP/1.1" 200 -
-[ 2023-04-15 16:10:41,966 ] 224 werkzeug - ERROR - 127.0.0.1 - - [15/Apr/2023 16:10:41] code 400, message Bad request version ('Ótí\x9a£\x80Ûr\x8f©e\x03ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
-[ 2023-04-15 16:10:41,970 ] 224 werkzeug - ERROR - 127.0.0.1 - - [15/Apr/2023 16:10:41] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
-[ 2023-04-15 16:10:42,215 ] 224 werkzeug - ERROR - 127.0.0.1 - - [15/Apr/2023 16:10:42] code 400, message Bad request version ("BCû8?_M\x06È\x10\x12í³?y¹Ô.\x8cYcô?kÄö¼\x17ê'\x9a$\x00")
-[ 2023-04-15 16:10:43,104 ] 224 werkzeug - ERROR - 127.0.0.1 - - [15/Apr/2023 16:10:43] code 400, message Bad request version ('~|\x80á\x8fß2\x94¬')
